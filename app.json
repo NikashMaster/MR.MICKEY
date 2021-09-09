@@ -7,7 +7,7 @@
     "success_url": "https://t.me/AsenaSupport",
     "stack": "container",
     "env": {
-        "miccy_SESSION": {
+        "ASENA_SESSION": {
             "description": "ඔබේ ☘️ MR.Miccy සැසිය මෙහි ටයිප් කරන්න.",
             "required": true
         },
