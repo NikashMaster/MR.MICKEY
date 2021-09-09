@@ -1,13 +1,13 @@
 {
     "name": "☘️ MR.Miccy",
     "description": "☘️ MR.Miccy project - Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
-    "logo": "https://telegra.ph/file/b5c7c166a316c46eed77b.jpg",
+    "logo": "https://telegra.ph/file/1aa7f53a9d29240f2d0d1.png",
     "keywords": ["whatsapp", "userbot", "official", "☘️ MR.Miccy", "bot", "api", "ai"],
-    "repository": "https://github.com/Agentrox8520/☘️ MR.MiccyCOME",
+    "repository": "https://github.com/NikashMaster/MR.MICKEY",
     "success_url": "https://t.me/AsenaSupport",
     "stack": "container",
     "env": {
-        "ASENA_SESSION": {
+        "miccy_SESSION": {
             "description": "ඔබේ ☘️ MR.Miccy සැසිය මෙහි ටයිප් කරන්න.",
             "required": true
         },
